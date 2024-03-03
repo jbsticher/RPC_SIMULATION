@@ -1,0 +1,13 @@
+# .gitignore for Python
+
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+__pycache__/
+pip-selfcheck.json
